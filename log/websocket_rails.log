@@ -1,0 +1,813 @@
+# Logfile created on 2016-06-11 15:39:28 +0900 by logger.rb/53938
+I [2016-06-11 15:39:28.661] [[32mConnectionManager[0m] Connection opened: #<Connection::c803fb6fcedd39b2132f>
+
+I [2016-06-11 15:39:32.217] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:39:32.217] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:39:32.217] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>"test"}
+I [2016-06-11 15:39:32.217] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c803fb6fcedd39b2132f>
+
+I [2016-06-11 15:39:32.220] [[32mDispatcher[0m] Event new_message Finished in 0.002537422 seconds
+
+I [2016-06-11 15:39:35.126] [[32mConnectionManager[0m] Connection closed: #<Connection::c803fb6fcedd39b2132f>
+
+I [2016-06-11 15:39:35.480] [[32mConnectionManager[0m] Connection opened: #<Connection::4c5cd114f5b13d2a675b>
+
+I [2016-06-11 15:39:36.864] [[32mConnectionManager[0m] Connection closed: #<Connection::4c5cd114f5b13d2a675b>
+
+I [2016-06-11 15:39:37.383] [[32mConnectionManager[0m] Connection opened: #<Connection::ebe7d0d50ed25eb4b07c>
+
+I [2016-06-11 15:39:44.332] [[32mConnectionManager[0m] Connection closed: #<Connection::ebe7d0d50ed25eb4b07c>
+
+I [2016-06-11 15:39:44.665] [[32mConnectionManager[0m] Connection opened: #<Connection::7c3dd04bd36e3bd56264>
+
+I [2016-06-11 15:39:47.185] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:39:47.185] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:39:47.185] [[32mDispatcher[0m] [36mData:[0m {"name"=>"teset", "body"=>"test"}
+I [2016-06-11 15:39:47.185] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7c3dd04bd36e3bd56264>
+
+I [2016-06-11 15:39:47.189] [[32mDispatcher[0m] Event new_message Finished in 0.003440649 seconds
+
+I [2016-06-11 15:40:38.209] [[32mConnectionManager[0m] Connection closed: #<Connection::7c3dd04bd36e3bd56264>
+
+I [2016-06-11 15:40:58.537] [[32mConnectionManager[0m] Connection opened: #<Connection::f595fb6894cc48a719c6>
+
+I [2016-06-11 15:41:37.850] [[32mConnectionManager[0m] Connection closed: #<Connection::f595fb6894cc48a719c6>
+
+I [2016-06-11 15:42:46.521] [[32mConnectionManager[0m] Connection opened: #<Connection::c917400ca7e74886f42d>
+
+I [2016-06-11 15:42:57.326] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:42:57.327] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:42:57.327] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>"test"}
+I [2016-06-11 15:42:57.327] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c917400ca7e74886f42d>
+
+I [2016-06-11 15:42:57.329] [[32mDispatcher[0m] Event new_message Finished in 0.001990473 seconds
+
+I [2016-06-11 15:44:36.281] [[32mConnectionManager[0m] Connection closed: #<Connection::c917400ca7e74886f42d>
+
+I [2016-06-11 15:44:36.517] [[32mConnectionManager[0m] Connection opened: #<Connection::92bfa4f35980edee9d74>
+
+I [2016-06-11 15:44:54.873] [[32mConnectionManager[0m] Connection closed: #<Connection::92bfa4f35980edee9d74>
+
+I [2016-06-11 15:44:55.320] [[32mConnectionManager[0m] Connection opened: #<Connection::054705f8be42cf38e652>
+
+I [2016-06-11 15:45:44.459] [[32mConnectionManager[0m] Connection closed: #<Connection::054705f8be42cf38e652>
+
+I [2016-06-11 15:45:44.898] [[32mConnectionManager[0m] Connection opened: #<Connection::2f80524dab81720a7ddd>
+
+I [2016-06-11 15:46:18.816] [[32mConnectionManager[0m] Connection closed: #<Connection::2f80524dab81720a7ddd>
+
+I [2016-06-11 15:46:19.344] [[32mConnectionManager[0m] Connection opened: #<Connection::1eb59f4324f77e96adab>
+
+I [2016-06-11 15:47:10.481] [[32mConnectionManager[0m] Connection closed: #<Connection::1eb59f4324f77e96adab>
+
+I [2016-06-11 15:47:10.888] [[32mConnectionManager[0m] Connection opened: #<Connection::ec4c4f7b73dd6ff64d4d>
+
+I [2016-06-11 15:48:01.846] [[32mConnectionManager[0m] Connection closed: #<Connection::ec4c4f7b73dd6ff64d4d>
+
+I [2016-06-11 15:48:01.476] [[32mConnectionManager[0m] Connection opened: #<Connection::b8917f7d1ac938e6ba8b>
+
+I [2016-06-11 15:48:17.247] [[32mConnectionManager[0m] Connection closed: #<Connection::b8917f7d1ac938e6ba8b>
+
+I [2016-06-11 15:48:17.693] [[32mConnectionManager[0m] Connection opened: #<Connection::32c3f7a743b8c3cc578a>
+
+I [2016-06-11 15:48:28.754] [[32mConnectionManager[0m] Connection closed: #<Connection::32c3f7a743b8c3cc578a>
+
+I [2016-06-11 15:48:29.253] [[32mConnectionManager[0m] Connection opened: #<Connection::80bc61bb3c020ac23dd5>
+
+I [2016-06-11 15:49:01.551] [[32mConnectionManager[0m] Connection closed: #<Connection::80bc61bb3c020ac23dd5>
+
+I [2016-06-11 15:49:02.104] [[32mConnectionManager[0m] Connection opened: #<Connection::d07fec94101aab5c1923>
+
+I [2016-06-11 15:49:45.567] [[32mConnectionManager[0m] Connection closed: #<Connection::d07fec94101aab5c1923>
+
+I [2016-06-11 15:49:46.385] [[32mConnectionManager[0m] Connection opened: #<Connection::79523299834c6006a703>
+
+I [2016-06-11 15:49:58.178] [[32mConnectionManager[0m] Connection closed: #<Connection::79523299834c6006a703>
+
+I [2016-06-11 15:49:58.489] [[32mConnectionManager[0m] Connection opened: #<Connection::d443939fc6d0b90c042f>
+
+I [2016-06-11 15:51:11.870] [[32mConnectionManager[0m] Connection closed: #<Connection::d443939fc6d0b90c042f>
+
+I [2016-06-11 15:51:12.375] [[32mConnectionManager[0m] Connection opened: #<Connection::6566bc549b7834d5e2e7>
+
+I [2016-06-11 15:52:49.427] [[32mConnectionManager[0m] Connection closed: #<Connection::6566bc549b7834d5e2e7>
+
+I [2016-06-11 15:52:49.888] [[32mConnectionManager[0m] Connection opened: #<Connection::a7feb0e387efbd267390>
+
+I [2016-06-11 15:52:54.886] [[32mConnectionManager[0m] Connection closed: #<Connection::a7feb0e387efbd267390>
+
+I [2016-06-11 15:52:55.287] [[32mConnectionManager[0m] Connection opened: #<Connection::f377ecd8b7ed5e0d2556>
+
+I [2016-06-11 15:53:08.635] [[32mConnectionManager[0m] Connection closed: #<Connection::f377ecd8b7ed5e0d2556>
+
+I [2016-06-11 15:53:09.119] [[32mConnectionManager[0m] Connection opened: #<Connection::f96f5500c691b4909064>
+
+I [2016-06-11 15:53:53.817] [[32mConnectionManager[0m] Connection closed: #<Connection::f96f5500c691b4909064>
+
+I [2016-06-11 15:53:54.356] [[32mConnectionManager[0m] Connection opened: #<Connection::088b6af68c85a1106d1a>
+
+I [2016-06-11 15:54:20.562] [[32mConnectionManager[0m] Connection closed: #<Connection::088b6af68c85a1106d1a>
+
+I [2016-06-11 15:54:21.202] [[32mConnectionManager[0m] Connection opened: #<Connection::fb344b3a22ec769a698e>
+
+I [2016-06-11 15:54:35.663] [[32mConnectionManager[0m] Connection closed: #<Connection::fb344b3a22ec769a698e>
+
+I [2016-06-11 15:54:35.531] [[32mConnectionManager[0m] Connection opened: #<Connection::79835197d533f22c19db>
+
+I [2016-06-11 15:54:57.699] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:54:57.700] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:54:57.700] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>"test"}
+I [2016-06-11 15:54:57.700] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::79835197d533f22c19db>
+
+I [2016-06-11 15:54:57.848] [[32mDispatcher[0m] Event new_message Finished in 0.000628185 seconds
+
+I [2016-06-11 15:54:59.145] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:54:59.145] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:54:59.145] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 15:54:59.146] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::79835197d533f22c19db>
+
+I [2016-06-11 15:54:59.147] [[32mDispatcher[0m] Event new_message Finished in 0.001265811 seconds
+
+I [2016-06-11 15:55:00.232] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:55:00.232] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:55:00.233] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 15:55:00.233] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::79835197d533f22c19db>
+
+I [2016-06-11 15:55:00.233] [[32mDispatcher[0m] Event new_message Finished in 0.000677205 seconds
+
+I [2016-06-11 15:55:01.103] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:55:01.104] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:55:01.104] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 15:55:01.104] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::79835197d533f22c19db>
+
+I [2016-06-11 15:55:01.105] [[32mDispatcher[0m] Event new_message Finished in 0.001375017 seconds
+
+I [2016-06-11 15:55:09.901] [[32mConnectionManager[0m] Connection closed: #<Connection::79835197d533f22c19db>
+
+I [2016-06-11 15:55:10.827] [[32mConnectionManager[0m] Connection opened: #<Connection::e41f8e288140da443ca7>
+
+I [2016-06-11 15:55:21.446] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:55:21.446] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:55:21.446] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>"test"}
+I [2016-06-11 15:55:21.446] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e41f8e288140da443ca7>
+
+I [2016-06-11 15:55:21.452] [[32mDispatcher[0m] Event new_message Finished in 0.004345959 seconds
+
+I [2016-06-11 15:56:23.503] [[32mConnectionManager[0m] Connection closed: #<Connection::e41f8e288140da443ca7>
+
+I [2016-06-11 15:56:24.735] [[32mConnectionManager[0m] Connection opened: #<Connection::67be19a6cd82a9c81190>
+
+I [2016-06-11 15:56:32.844] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:56:32.845] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:56:32.845] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>"test"}
+I [2016-06-11 15:56:32.845] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::67be19a6cd82a9c81190>
+
+I [2016-06-11 15:56:32.846] [[32mDispatcher[0m] Event new_message Finished in 0.000901928 seconds
+
+I [2016-06-11 15:59:27.282] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:59:27.282] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:59:27.282] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>"test"}
+I [2016-06-11 15:59:27.282] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::67be19a6cd82a9c81190>
+
+I [2016-06-11 15:59:27.283] [[32mDispatcher[0m] Event new_message Finished in 0.000948236 seconds
+
+I [2016-06-11 15:59:27.869] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:59:27.869] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:59:27.869] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 15:59:27.869] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::67be19a6cd82a9c81190>
+
+I [2016-06-11 15:59:27.871] [[32mDispatcher[0m] Event new_message Finished in 0.001096167 seconds
+
+I [2016-06-11 15:59:28.333] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:59:28.333] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:59:28.333] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 15:59:28.333] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::67be19a6cd82a9c81190>
+
+I [2016-06-11 15:59:28.335] [[32mDispatcher[0m] Event new_message Finished in 0.001606487 seconds
+
+I [2016-06-11 15:59:28.499] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:59:28.499] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:59:28.499] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 15:59:28.499] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::67be19a6cd82a9c81190>
+
+I [2016-06-11 15:59:28.501] [[32mDispatcher[0m] Event new_message Finished in 0.000905649 seconds
+
+I [2016-06-11 15:59:28.687] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 15:59:28.687] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 15:59:28.687] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 15:59:28.687] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::67be19a6cd82a9c81190>
+
+I [2016-06-11 15:59:28.689] [[32mDispatcher[0m] Event new_message Finished in 0.001603442 seconds
+
+I [2016-06-11 15:59:51.664] [[32mConnectionManager[0m] Connection closed: #<Connection::67be19a6cd82a9c81190>
+
+I [2016-06-11 15:59:52.462] [[32mConnectionManager[0m] Connection opened: #<Connection::cf703230a87ad3cb08b6>
+
+I [2016-06-11 16:01:15.992] [[32mConnectionManager[0m] Connection closed: #<Connection::cf703230a87ad3cb08b6>
+
+I [2016-06-11 16:01:17.608] [[32mConnectionManager[0m] Connection opened: #<Connection::32adf4a562e28799c454>
+
+I [2016-06-11 16:01:28.977] [[32mConnectionManager[0m] Connection closed: #<Connection::32adf4a562e28799c454>
+
+I [2016-06-11 16:01:29.705] [[32mConnectionManager[0m] Connection opened: #<Connection::515ce0a2fd29a4ad57cc>
+
+I [2016-06-11 16:01:35.836] [[32mConnectionManager[0m] Connection closed: #<Connection::515ce0a2fd29a4ad57cc>
+
+I [2016-06-11 16:01:42.236] [[32mConnectionManager[0m] Connection opened: #<Connection::0a73981d847651fcfc3b>
+
+I [2016-06-11 16:03:58.484] [[32mConnectionManager[0m] Connection closed: #<Connection::0a73981d847651fcfc3b>
+
+I [2016-06-11 16:03:59.890] [[32mConnectionManager[0m] Connection opened: #<Connection::feb9753557fa7186d8e4>
+
+I [2016-06-11 16:04:18.676] [[32mConnectionManager[0m] Connection closed: #<Connection::feb9753557fa7186d8e4>
+
+I [2016-06-11 16:04:20.922] [[32mConnectionManager[0m] Connection opened: #<Connection::8afea5fb373fd4de7220>
+
+I [2016-06-11 16:04:26.844] [[32mConnectionManager[0m] Connection closed: #<Connection::8afea5fb373fd4de7220>
+
+I [2016-06-11 16:04:28.358] [[32mConnectionManager[0m] Connection opened: #<Connection::7a9518c4608050de7e7c>
+
+I [2016-06-11 16:04:39.279] [[32mConnectionManager[0m] Connection closed: #<Connection::7a9518c4608050de7e7c>
+
+I [2016-06-11 16:04:40.522] [[32mConnectionManager[0m] Connection opened: #<Connection::f73eb5f03e36d9489122>
+
+I [2016-06-11 16:04:54.473] [[32mConnectionManager[0m] Connection closed: #<Connection::f73eb5f03e36d9489122>
+
+I [2016-06-11 16:04:54.739] [[32mConnectionManager[0m] Connection opened: #<Connection::2d170554558e5a5b44e1>
+
+I [2016-06-11 16:05:47.798] [[32mConnectionManager[0m] Connection closed: #<Connection::2d170554558e5a5b44e1>
+
+I [2016-06-11 16:05:48.551] [[32mConnectionManager[0m] Connection opened: #<Connection::c27e58582358877ce1e2>
+
+I [2016-06-11 16:06:02.949] [[32mConnectionManager[0m] Connection closed: #<Connection::c27e58582358877ce1e2>
+
+I [2016-06-11 16:06:03.700] [[32mConnectionManager[0m] Connection opened: #<Connection::96e8d86c0a62cf185aa2>
+
+I [2016-06-11 16:07:39.249] [[32mConnectionManager[0m] Connection closed: #<Connection::96e8d86c0a62cf185aa2>
+
+I [2016-06-11 16:07:39.735] [[32mConnectionManager[0m] Connection opened: #<Connection::68e83e20c1eed50ab936>
+
+I [2016-06-11 16:10:58.499] [[32mConnectionManager[0m] Connection closed: #<Connection::68e83e20c1eed50ab936>
+
+I [2016-06-11 16:18:56.836] [[32mConnectionManager[0m] Connection opened: #<Connection::87ad371e50b5f16f2e6f>
+
+I [2016-06-11 16:19:22.708] [[32mConnectionManager[0m] Connection closed: #<Connection::87ad371e50b5f16f2e6f>
+
+I [2016-06-11 16:19:23.642] [[32mConnectionManager[0m] Connection opened: #<Connection::ebcac73e7682bcbcf9dc>
+
+I [2016-06-11 16:19:31.180] [[32mConnectionManager[0m] Connection closed: #<Connection::ebcac73e7682bcbcf9dc>
+
+I [2016-06-11 16:19:31.919] [[32mConnectionManager[0m] Connection opened: #<Connection::1e846e2453d16cfd01d3>
+
+I [2016-06-11 16:19:38.310] [[32mConnectionManager[0m] Connection closed: #<Connection::1e846e2453d16cfd01d3>
+
+I [2016-06-11 16:19:39.270] [[32mConnectionManager[0m] Connection opened: #<Connection::0e9f928176f2878314f2>
+
+I [2016-06-11 16:19:59.444] [[32mConnectionManager[0m] Connection closed: #<Connection::0e9f928176f2878314f2>
+
+I [2016-06-11 16:20:00.363] [[32mConnectionManager[0m] Connection opened: #<Connection::7f960c1f4db8143ca2f2>
+
+I [2016-06-11 16:20:37.378] [[32mConnectionManager[0m] Connection closed: #<Connection::7f960c1f4db8143ca2f2>
+
+I [2016-06-11 16:22:02.418] [[32mConnectionManager[0m] Connection opened: #<Connection::8dad10b4ec3766cd47c2>
+
+I [2016-06-11 16:24:57.484] [[32mConnectionManager[0m] Connection closed: #<Connection::8dad10b4ec3766cd47c2>
+
+I [2016-06-11 16:24:58.318] [[32mConnectionManager[0m] Connection opened: #<Connection::3abc215f74362f117d8a>
+
+I [2016-06-11 16:26:29.769] [[32mConnectionManager[0m] Connection closed: #<Connection::3abc215f74362f117d8a>
+
+I [2016-06-11 16:26:30.621] [[32mConnectionManager[0m] Connection opened: #<Connection::1fdf94a28a1f392b6e2c>
+
+I [2016-06-11 16:26:43.181] [[32mConnectionManager[0m] Connection closed: #<Connection::1fdf94a28a1f392b6e2c>
+
+I [2016-06-11 16:26:44.453] [[32mConnectionManager[0m] Connection opened: #<Connection::d33b0bc743756a3d3a8b>
+
+I [2016-06-11 16:30:22.910] [[32mConnectionManager[0m] Connection closed: #<Connection::d33b0bc743756a3d3a8b>
+
+I [2016-06-11 16:30:23.374] [[32mConnectionManager[0m] Connection opened: #<Connection::4a691bce6b279a7b87f2>
+
+I [2016-06-11 16:38:54.799] [[32mConnectionManager[0m] Connection closed: #<Connection::4a691bce6b279a7b87f2>
+
+I [2016-06-11 16:38:55.140] [[32mConnectionManager[0m] Connection opened: #<Connection::3f616ea3be6c0a596ea5>
+
+I [2016-06-11 16:39:16.513] [[32mConnectionManager[0m] Connection closed: #<Connection::3f616ea3be6c0a596ea5>
+
+I [2016-06-11 16:39:16.934] [[32mConnectionManager[0m] Connection opened: #<Connection::c230896120235f84b711>
+
+I [2016-06-11 16:39:35.143] [[32mConnectionManager[0m] Connection closed: #<Connection::c230896120235f84b711>
+
+I [2016-06-11 16:39:35.908] [[32mConnectionManager[0m] Connection opened: #<Connection::57fa9ddc3ac694cea5e3>
+
+I [2016-06-11 16:41:41.185] [[32mConnectionManager[0m] Connection closed: #<Connection::57fa9ddc3ac694cea5e3>
+
+I [2016-06-11 16:41:42.763] [[32mConnectionManager[0m] Connection opened: #<Connection::825a7ae784fddb84e6e3>
+
+I [2016-06-11 16:44:37.354] [[32mConnectionManager[0m] Connection closed: #<Connection::825a7ae784fddb84e6e3>
+
+I [2016-06-11 16:44:38.769] [[32mConnectionManager[0m] Connection opened: #<Connection::aaffe68e3c00f3abc366>
+
+I [2016-06-11 16:45:19.848] [[32mConnectionManager[0m] Connection closed: #<Connection::aaffe68e3c00f3abc366>
+
+I [2016-06-11 16:45:20.726] [[32mConnectionManager[0m] Connection opened: #<Connection::8d36752b8f70a487661f>
+
+I [2016-06-11 16:45:28.503] [[32mConnectionManager[0m] Connection closed: #<Connection::8d36752b8f70a487661f>
+
+I [2016-06-11 16:45:28.823] [[32mConnectionManager[0m] Connection opened: #<Connection::a2c473726f805808d129>
+
+I [2016-06-11 16:46:41.788] [[32mConnectionManager[0m] Connection closed: #<Connection::a2c473726f805808d129>
+
+I [2016-06-11 16:46:43.461] [[32mConnectionManager[0m] Connection opened: #<Connection::c3dd36faf38469d33e86>
+
+I [2016-06-11 16:46:47.405] [[32mConnectionManager[0m] Connection closed: #<Connection::c3dd36faf38469d33e86>
+
+I [2016-06-11 16:46:48.151] [[32mConnectionManager[0m] Connection opened: #<Connection::a60997ea1c22a568b276>
+
+I [2016-06-11 16:48:07.902] [[32mConnectionManager[0m] Connection closed: #<Connection::a60997ea1c22a568b276>
+
+I [2016-06-11 16:48:08.341] [[32mConnectionManager[0m] Connection opened: #<Connection::9230f0843f6162c17818>
+
+I [2016-06-11 16:50:12.354] [[32mConnectionManager[0m] Connection closed: #<Connection::9230f0843f6162c17818>
+
+I [2016-06-11 16:50:12.966] [[32mConnectionManager[0m] Connection opened: #<Connection::dd6f306c332ebbb241ce>
+
+I [2016-06-11 16:50:26.761] [[32mConnectionManager[0m] Connection closed: #<Connection::dd6f306c332ebbb241ce>
+
+I [2016-06-11 16:50:27.466] [[32mConnectionManager[0m] Connection opened: #<Connection::ef5a32638b8fd31bffdb>
+
+I [2016-06-11 17:05:29.208] [[32mConnectionManager[0m] Connection closed: #<Connection::ef5a32638b8fd31bffdb>
+
+I [2016-06-11 17:05:30.614] [[32mConnectionManager[0m] Connection opened: #<Connection::7d8292b575960d5b9c92>
+
+I [2016-06-11 17:05:46.261] [[32mConnectionManager[0m] Connection closed: #<Connection::7d8292b575960d5b9c92>
+
+I [2016-06-11 17:06:13.479] [[32mConnectionManager[0m] Connection opened: #<Connection::5af93bb5e14f12e9fa1c>
+
+I [2016-06-11 17:06:35.860] [[32mConnectionManager[0m] Connection closed: #<Connection::5af93bb5e14f12e9fa1c>
+
+I [2016-06-11 17:06:36.618] [[32mConnectionManager[0m] Connection opened: #<Connection::2450e47f4bb4ccd28cf1>
+
+I [2016-06-11 17:06:47.109] [[32mConnectionManager[0m] Connection closed: #<Connection::2450e47f4bb4ccd28cf1>
+
+I [2016-06-11 17:06:47.880] [[32mConnectionManager[0m] Connection opened: #<Connection::b522233dde0e34bff70f>
+
+I [2016-06-11 17:07:19.202] [[32mConnectionManager[0m] Connection closed: #<Connection::b522233dde0e34bff70f>
+
+I [2016-06-11 17:07:20.840] [[32mConnectionManager[0m] Connection opened: #<Connection::97d9cb28f87fb32771fd>
+
+I [2016-06-11 17:07:51.623] [[32mConnectionManager[0m] Connection closed: #<Connection::97d9cb28f87fb32771fd>
+
+I [2016-06-11 17:07:52.561] [[32mConnectionManager[0m] Connection opened: #<Connection::4f621534e1a9d9ff9266>
+
+I [2016-06-11 17:08:29.322] [[32mConnectionManager[0m] Connection closed: #<Connection::4f621534e1a9d9ff9266>
+
+I [2016-06-11 17:08:29.957] [[32mConnectionManager[0m] Connection opened: #<Connection::74261a9f7231aa76c38a>
+
+I [2016-06-11 17:08:34.802] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:08:34.802] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:08:34.803] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>"test"}
+I [2016-06-11 17:08:34.803] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::74261a9f7231aa76c38a>
+
+I [2016-06-11 17:08:34.809] [[32mDispatcher[0m] Event new_message Finished in 0.006250946 seconds
+
+I [2016-06-11 17:08:35.348] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:08:35.348] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:08:35.348] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 17:08:35.348] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::74261a9f7231aa76c38a>
+
+I [2016-06-11 17:08:35.350] [[32mDispatcher[0m] Event new_message Finished in 0.00187411 seconds
+
+I [2016-06-11 17:08:35.800] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:08:35.801] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:08:35.801] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 17:08:35.801] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::74261a9f7231aa76c38a>
+
+I [2016-06-11 17:08:35.802] [[32mDispatcher[0m] Event new_message Finished in 0.000814359 seconds
+
+I [2016-06-11 17:08:35.985] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:08:35.985] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:08:35.985] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 17:08:35.985] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::74261a9f7231aa76c38a>
+
+I [2016-06-11 17:08:35.987] [[32mDispatcher[0m] Event new_message Finished in 0.001498026 seconds
+
+I [2016-06-11 17:08:36.130] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:08:36.131] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:08:36.131] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 17:08:36.131] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::74261a9f7231aa76c38a>
+
+I [2016-06-11 17:08:36.132] [[32mDispatcher[0m] Event new_message Finished in 0.000952319 seconds
+
+I [2016-06-11 17:08:36.296] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:08:36.296] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:08:36.296] [[32mDispatcher[0m] [36mData:[0m {"name"=>"test", "body"=>""}
+I [2016-06-11 17:08:36.296] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::74261a9f7231aa76c38a>
+
+I [2016-06-11 17:08:36.297] [[32mDispatcher[0m] Event new_message Finished in 0.000656225 seconds
+
+I [2016-06-11 17:10:12.399] [[32mConnectionManager[0m] Connection closed: #<Connection::74261a9f7231aa76c38a>
+
+I [2016-06-11 17:10:13.893] [[32mConnectionManager[0m] Connection opened: #<Connection::8d6a6c41106af82d3013>
+
+I [2016-06-11 17:10:26.665] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:10:26.665] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:10:26.666] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>""}
+I [2016-06-11 17:10:26.666] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8d6a6c41106af82d3013>
+
+I [2016-06-11 17:10:26.667] [[32mDispatcher[0m] Event new_message Finished in 0.001235813 seconds
+
+I [2016-06-11 17:18:36.415] [[32mConnectionManager[0m] Connection closed: #<Connection::8d6a6c41106af82d3013>
+
+I [2016-06-11 17:18:37.391] [[32mConnectionManager[0m] Connection opened: #<Connection::829941a1a87ae7c014a4>
+
+I [2016-06-11 17:18:45.369] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:18:45.370] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:18:45.370] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"change：199"}
+I [2016-06-11 17:18:45.370] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::829941a1a87ae7c014a4>
+
+I [2016-06-11 17:18:45.371] [[32mDispatcher[0m] Event new_message Finished in 0.000703338 seconds
+
+I [2016-06-11 17:19:55.952] [[32mConnectionManager[0m] Connection closed: #<Connection::829941a1a87ae7c014a4>
+
+I [2016-06-11 17:19:56.781] [[32mConnectionManager[0m] Connection opened: #<Connection::91da2a10de0afb818381>
+
+I [2016-06-11 17:20:16.472] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:20:16.472] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:20:16.472] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"188"}
+I [2016-06-11 17:20:16.472] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::91da2a10de0afb818381>
+
+I [2016-06-11 17:20:16.475] [[32mDispatcher[0m] Event new_message Finished in 0.00224779 seconds
+
+I [2016-06-11 17:20:42.771] [[32mConnectionManager[0m] Connection opened: #<Connection::e9982467890ab77c2f3c>
+
+I [2016-06-11 17:20:52.261] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:20:52.261] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:20:52.261] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"245"}
+I [2016-06-11 17:20:52.261] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e9982467890ab77c2f3c>
+
+I [2016-06-11 17:20:52.263] [[32mDispatcher[0m] Event new_message Finished in 0.001644358 seconds
+
+I [2016-06-11 17:33:15.567] [[32mConnectionManager[0m] Connection closed: #<Connection::91da2a10de0afb818381>
+
+I [2016-06-11 17:33:25.620] [[32mConnectionManager[0m] Connection closed: #<Connection::e9982467890ab77c2f3c>
+
+I [2016-06-11 17:33:47.290] [[32mConnectionManager[0m] Connection opened: #<Connection::0393545c664ed573e97b>
+
+I [2016-06-11 17:34:02.526] [[32mConnectionManager[0m] Connection closed: #<Connection::0393545c664ed573e97b>
+
+I [2016-06-11 17:34:03.107] [[32mConnectionManager[0m] Connection opened: #<Connection::0e77ef0deeb9229a9794>
+
+I [2016-06-11 17:35:32.366] [[32mConnectionManager[0m] Connection closed: #<Connection::0e77ef0deeb9229a9794>
+
+I [2016-06-11 17:35:33.391] [[32mConnectionManager[0m] Connection opened: #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:36:17.482] [[32mConnectionManager[0m] Connection opened: #<Connection::8063d890c56aaf282cb3>
+
+I [2016-06-11 17:36:22.862] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:36:22.862] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:36:22.862] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"159"}
+I [2016-06-11 17:36:22.862] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:36:22.866] [[32mDispatcher[0m] Event new_message Finished in 0.003474818 seconds
+
+I [2016-06-11 17:36:33.210] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:36:33.210] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:36:33.210] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"223"}
+I [2016-06-11 17:36:33.210] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:36:33.212] [[32mDispatcher[0m] Event new_message Finished in 0.00101155 seconds
+
+I [2016-06-11 17:36:39.313] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:36:39.314] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:36:39.314] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"223"}
+I [2016-06-11 17:36:39.314] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:36:39.321] [[32mDispatcher[0m] Event new_message Finished in 0.00620816 seconds
+
+I [2016-06-11 17:36:46.742] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:36:46.742] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:36:46.742] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"112"}
+I [2016-06-11 17:36:46.742] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:36:46.751] [[32mDispatcher[0m] Event new_message Finished in 0.008557241 seconds
+
+I [2016-06-11 17:37:03.974] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:37:03.974] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:37:03.974] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"create:0"}
+I [2016-06-11 17:37:03.974] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8063d890c56aaf282cb3>
+
+I [2016-06-11 17:37:03.975] [[32mDispatcher[0m] Event new_message Finished in 0.000860635 seconds
+
+I [2016-06-11 17:37:36.169] [[32mConnectionManager[0m] Connection closed: #<Connection::8063d890c56aaf282cb3>
+
+I [2016-06-11 17:37:46.240] [[32mConnectionManager[0m] Connection opened: #<Connection::d4a91ba796a179c3f4cb>
+
+I [2016-06-11 17:38:00.892] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:38:00.893] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:38:00.893] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"112"}
+I [2016-06-11 17:38:00.893] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:38:00.895] [[32mDispatcher[0m] Event new_message Finished in 0.001974062 seconds
+
+I [2016-06-11 17:38:02.958] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:38:02.958] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:38:02.958] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"112"}
+I [2016-06-11 17:38:02.958] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:38:02.960] [[32mDispatcher[0m] Event new_message Finished in 0.002261189 seconds
+
+I [2016-06-11 17:38:11.186] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:38:11.186] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:38:11.186] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"112"}
+I [2016-06-11 17:38:11.186] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:38:11.188] [[32mDispatcher[0m] Event new_message Finished in 0.001621078 seconds
+
+I [2016-06-11 17:38:23.425] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:38:23.425] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:38:23.426] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"138"}
+I [2016-06-11 17:38:23.426] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:38:23.432] [[32mDispatcher[0m] Event new_message Finished in 0.00647924 seconds
+
+I [2016-06-11 17:39:25.516] [[32mConnectionManager[0m] Connection closed: #<Connection::d4a91ba796a179c3f4cb>
+
+I [2016-06-11 17:39:27.263] [[32mConnectionManager[0m] Connection opened: #<Connection::b924f930055e5e5308f6>
+
+I [2016-06-11 17:39:35.275] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:39:35.275] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:39:35.275] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"138"}
+I [2016-06-11 17:39:35.275] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:39:35.279] [[32mDispatcher[0m] Event new_message Finished in 0.002971878 seconds
+
+I [2016-06-11 17:39:38.812] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:39:38.812] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:39:38.812] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"138"}
+I [2016-06-11 17:39:38.812] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:39:38.815] [[32mDispatcher[0m] Event new_message Finished in 0.001815704 seconds
+
+I [2016-06-11 17:41:56.377] [[32mConnectionManager[0m] Connection closed: #<Connection::3dfa3c091e2aab0c7b9e>
+
+I [2016-06-11 17:41:57.736] [[32mConnectionManager[0m] Connection opened: #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:42:08.330] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:42:08.330] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:42:08.330] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"104"}
+I [2016-06-11 17:42:08.330] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:42:08.334] [[32mDispatcher[0m] Event new_message Finished in 0.003222549 seconds
+
+I [2016-06-11 17:42:11.502] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:42:11.503] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:42:11.507] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"104"}
+I [2016-06-11 17:42:11.507] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:42:11.514] [[32mDispatcher[0m] Event new_message Finished in 0.005984839 seconds
+
+I [2016-06-11 17:42:32.248] [[32mConnectionManager[0m] Connection closed: #<Connection::b924f930055e5e5308f6>
+
+I [2016-06-11 17:42:34.241] [[32mConnectionManager[0m] Connection opened: #<Connection::1c117f0e6ae1f298111e>
+
+I [2016-06-11 17:42:49.885] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:42:49.886] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:42:49.886] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"70"}
+I [2016-06-11 17:42:49.886] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1c117f0e6ae1f298111e>
+
+I [2016-06-11 17:42:49.889] [[32mDispatcher[0m] Event new_message Finished in 0.002416257 seconds
+
+I [2016-06-11 17:43:02.608] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:43:02.610] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:43:02.610] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"71"}
+I [2016-06-11 17:43:02.611] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:43:02.624] [[32mDispatcher[0m] Event new_message Finished in 0.012717271 seconds
+
+I [2016-06-11 17:43:11.463] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:43:11.463] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:43:11.463] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"9"}
+I [2016-06-11 17:43:11.463] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:43:11.465] [[32mDispatcher[0m] Event new_message Finished in 0.001546948 seconds
+
+I [2016-06-11 17:43:17.446] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:43:17.447] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:43:17.447] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"9"}
+I [2016-06-11 17:43:17.447] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:43:17.449] [[32mDispatcher[0m] Event new_message Finished in 0.002043036 seconds
+
+I [2016-06-11 17:43:21.491] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:43:21.525] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:43:21.529] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"9"}
+I [2016-06-11 17:43:21.533] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:43:21.791] [[32mDispatcher[0m] Event new_message Finished in 0.002450499 seconds
+
+I [2016-06-11 17:43:23.566] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:43:23.566] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:43:23.567] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"9"}
+I [2016-06-11 17:43:23.567] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:43:23.576] [[32mDispatcher[0m] Event new_message Finished in 0.009108547 seconds
+
+I [2016-06-11 17:43:31.835] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:43:31.837] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:43:31.837] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"130"}
+I [2016-06-11 17:43:31.837] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:43:31.839] [[32mDispatcher[0m] Event new_message Finished in 0.001562607 seconds
+
+I [2016-06-11 17:43:35.741] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:43:35.741] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:43:35.742] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"130"}
+I [2016-06-11 17:43:35.742] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:43:35.743] [[32mDispatcher[0m] Event new_message Finished in 0.001059319 seconds
+
+I [2016-06-11 17:43:39.165] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:43:39.165] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:43:39.165] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"130"}
+I [2016-06-11 17:43:39.165] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:43:39.169] [[32mDispatcher[0m] Event new_message Finished in 0.003084028 seconds
+
+I [2016-06-11 17:45:37.682] [[32mConnectionManager[0m] Connection closed: #<Connection::1c117f0e6ae1f298111e>
+
+I [2016-06-11 17:45:39.741] [[32mConnectionManager[0m] Connection opened: #<Connection::f0d94feb3af53ea7edc9>
+
+I [2016-06-11 17:45:46.720] [[32mConnectionManager[0m] Connection closed: #<Connection::8785acf57267e7969842>
+
+I [2016-06-11 17:45:48.140] [[32mConnectionManager[0m] Connection opened: #<Connection::9ea6adbc73d734e369d9>
+
+I [2016-06-11 17:46:00.440] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:46:00.440] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:46:00.440] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"138"}
+I [2016-06-11 17:46:00.440] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9ea6adbc73d734e369d9>
+
+I [2016-06-11 17:46:00.445] [[32mDispatcher[0m] Event new_message Finished in 0.004569414 seconds
+
+I [2016-06-11 17:46:07.785] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:46:07.785] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:46:07.785] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"37"}
+I [2016-06-11 17:46:07.785] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9ea6adbc73d734e369d9>
+
+I [2016-06-11 17:46:07.789] [[32mDispatcher[0m] Event new_message Finished in 0.00331807 seconds
+
+I [2016-06-11 17:47:29.336] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 17:47:29.338] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 17:47:29.338] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"144"}
+I [2016-06-11 17:47:29.339] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9ea6adbc73d734e369d9>
+
+I [2016-06-11 17:47:29.350] [[32mDispatcher[0m] Event new_message Finished in 0.010902661 seconds
+
+I [2016-06-11 17:47:38.570] [[32mConnectionManager[0m] Connection closed: #<Connection::9ea6adbc73d734e369d9>
+
+I [2016-06-11 17:47:40.234] [[32mConnectionManager[0m] Connection closed: #<Connection::f0d94feb3af53ea7edc9>
+
+I [2016-06-11 18:27:54.712] [[32mConnectionManager[0m] Connection opened: #<Connection::3f8645c0bf8979278c17>
+
+I [2016-06-11 18:29:18.353] [[32mConnectionManager[0m] Connection opened: #<Connection::761e60cf985fb6428c0a>
+
+I [2016-06-11 18:29:28.946] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 18:29:28.947] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 18:29:28.947] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"154"}
+I [2016-06-11 18:29:28.948] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::761e60cf985fb6428c0a>
+
+I [2016-06-11 18:29:28.106] [[32mDispatcher[0m] Event new_message Finished in 0.011673062 seconds
+
+I [2016-06-11 18:38:06.279] [[32mConnectionManager[0m] Connection closed: #<Connection::3f8645c0bf8979278c17>
+
+I [2016-06-11 18:38:06.285] [[32mConnectionManager[0m] Connection closed: #<Connection::761e60cf985fb6428c0a>
+
+I [2016-06-11 18:39:10.723] [[32mConnectionManager[0m] Connection opened: #<Connection::484f8d7b1b705f250c85>
+
+I [2016-06-11 18:39:11.370] [[32mConnectionManager[0m] Connection opened: #<Connection::bdbb59703da7a8ee90f3>
+
+I [2016-06-11 18:39:39.472] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 18:39:39.472] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 18:39:39.472] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"77"}
+I [2016-06-11 18:39:39.472] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bdbb59703da7a8ee90f3>
+
+I [2016-06-11 18:39:39.475] [[32mDispatcher[0m] Event new_message Finished in 0.002191567 seconds
+
+I [2016-06-11 18:39:45.530] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 18:39:45.530] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 18:39:45.530] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"49"}
+I [2016-06-11 18:39:45.530] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bdbb59703da7a8ee90f3>
+
+I [2016-06-11 18:39:45.532] [[32mDispatcher[0m] Event new_message Finished in 0.001553012 seconds
+
+I [2016-06-11 18:39:54.314] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 18:39:54.315] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 18:39:54.315] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"112"}
+I [2016-06-11 18:39:54.315] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bdbb59703da7a8ee90f3>
+
+I [2016-06-11 18:39:54.316] [[32mDispatcher[0m] Event new_message Finished in 0.001175778 seconds
+
+I [2016-06-11 18:40:54.556] [[32mConnectionManager[0m] Connection closed: #<Connection::484f8d7b1b705f250c85>
+
+I [2016-06-11 18:40:58.794] [[32mConnectionManager[0m] Connection closed: #<Connection::bdbb59703da7a8ee90f3>
+
+I [2016-06-11 19:28:00.878] [[32mConnectionManager[0m] Connection opened: #<Connection::e0adeb344823e698a4cc>
+
+I [2016-06-11 19:28:05.278] [[32mConnectionManager[0m] Connection opened: #<Connection::ff4b2e62d2aa9dcafa73>
+
+I [2016-06-11 19:28:10.803] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:28:10.804] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:28:10.806] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"65"}
+I [2016-06-11 19:28:10.807] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::ff4b2e62d2aa9dcafa73>
+
+I [2016-06-11 19:28:10.845] [[32mDispatcher[0m] Event new_message Finished in 0.020565382 seconds
+
+I [2016-06-11 19:28:18.823] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:28:18.824] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:28:18.825] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"89"}
+I [2016-06-11 19:28:18.826] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e0adeb344823e698a4cc>
+
+I [2016-06-11 19:28:18.873] [[32mDispatcher[0m] Event new_message Finished in 0.00453591 seconds
+
+I [2016-06-11 19:28:32.690] [[32mConnectionManager[0m] Connection closed: #<Connection::ff4b2e62d2aa9dcafa73>
+
+I [2016-06-11 19:28:34.119] [[32mConnectionManager[0m] Connection opened: #<Connection::4b0e89d42b33df3bc2b2>
+
+I [2016-06-11 19:28:34.685] [[32mConnectionManager[0m] Connection closed: #<Connection::e0adeb344823e698a4cc>
+
+I [2016-06-11 19:28:35.675] [[32mConnectionManager[0m] Connection opened: #<Connection::f0c22aee5889075536f5>
+
+I [2016-06-11 19:28:43.287] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:28:43.287] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:28:43.287] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"46"}
+I [2016-06-11 19:28:43.287] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4b0e89d42b33df3bc2b2>
+
+I [2016-06-11 19:28:43.290] [[32mDispatcher[0m] Event new_message Finished in 0.00186181 seconds
+
+I [2016-06-11 19:28:48.854] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:28:48.856] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:28:48.860] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"34"}
+I [2016-06-11 19:28:48.862] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4b0e89d42b33df3bc2b2>
+
+I [2016-06-11 19:28:48.871] [[32mDispatcher[0m] Event new_message Finished in 0.007033746 seconds
+
+I [2016-06-11 19:28:55.418] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:28:55.418] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:28:55.418] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"50"}
+I [2016-06-11 19:28:55.418] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4b0e89d42b33df3bc2b2>
+
+I [2016-06-11 19:28:55.420] [[32mDispatcher[0m] Event new_message Finished in 0.001389269 seconds
+
+I [2016-06-11 19:29:06.923] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:29:06.923] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:29:06.924] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"21"}
+I [2016-06-11 19:29:06.924] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::f0c22aee5889075536f5>
+
+I [2016-06-11 19:29:06.925] [[32mDispatcher[0m] Event new_message Finished in 0.001565082 seconds
+
+I [2016-06-11 19:29:16.902] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:29:16.902] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:29:16.902] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"21"}
+I [2016-06-11 19:29:16.902] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::f0c22aee5889075536f5>
+
+I [2016-06-11 19:29:16.905] [[32mDispatcher[0m] Event new_message Finished in 0.003094717 seconds
+
+I [2016-06-11 19:29:45.180] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:29:45.181] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:29:45.181] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"13"}
+I [2016-06-11 19:29:45.181] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4b0e89d42b33df3bc2b2>
+
+I [2016-06-11 19:29:45.190] [[32mDispatcher[0m] Event new_message Finished in 0.009372363 seconds
+
+I [2016-06-11 19:29:56.218] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:29:56.218] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:29:56.218] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"39"}
+I [2016-06-11 19:29:56.218] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4b0e89d42b33df3bc2b2>
+
+I [2016-06-11 19:29:56.231] [[32mDispatcher[0m] Event new_message Finished in 0.012542857 seconds
+
+I [2016-06-11 19:30:47.368] [[32mConnectionManager[0m] Connection closed: #<Connection::f0c22aee5889075536f5>
+
+I [2016-06-11 19:30:48.772] [[32mConnectionManager[0m] Connection opened: #<Connection::a14e64f19fa6fa0bf276>
+
+I [2016-06-11 19:30:54.582] [[32mConnectionManager[0m] Connection closed: #<Connection::4b0e89d42b33df3bc2b2>
+
+I [2016-06-11 19:30:55.588] [[32mConnectionManager[0m] Connection opened: #<Connection::7e4321c298005fe1f603>
+
+I [2016-06-11 19:35:17.363] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:35:17.364] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:35:17.364] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"51"}
+I [2016-06-11 19:35:17.364] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7e4321c298005fe1f603>
+
+I [2016-06-11 19:35:17.426] [[32mDispatcher[0m] Event new_message Finished in 0.012510473 seconds
+
+I [2016-06-11 19:35:22.905] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-11 19:35:22.905] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-11 19:35:22.905] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"20"}
+I [2016-06-11 19:35:22.905] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7e4321c298005fe1f603>
+
+I [2016-06-11 19:35:22.907] [[32mDispatcher[0m] Event new_message Finished in 0.001482816 seconds
+
+I [2016-06-11 19:37:52.177] [[32mConnectionManager[0m] Connection closed: #<Connection::a14e64f19fa6fa0bf276>
+
+I [2016-06-11 19:39:18.966] [[32mConnectionManager[0m] Connection closed: #<Connection::7e4321c298005fe1f603>
+

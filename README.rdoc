@@ -1,0 +1,14 @@
+websocketTest
+============
+
+This is made for the team "755Apps". The linsens is [MIT].
+
+About
+---------
+RailsでWebsocketのチャットを試作。
+
+License
+----------
+Copyright &copy; 84yeti.
+Distributed under the [MIT License][mit].
+[MIT]: http://www.opensource.org/licenses/mit-license.php
