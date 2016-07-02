@@ -116,9 +116,9 @@ $(function(){
 
 function onYouTubePlayerReady(playerId) {
     ytplayer = document.getElementById("myytplayer");
-    // ytplayer.cueVideoById("bD3Pr3F0B_4");
+     ytplayer.cueVideoById("bD3Pr3F0B_4");
     // ytplayer.cueVideoById("9sJUDx7iEJw");
-    ytplayer.cueVideoById("xSkCny-HtTw");
+    //ytplayer.cueVideoById("xSkCny-HtTw");
     timerID=setInterval("getStatus()",1);
 
     var s="";

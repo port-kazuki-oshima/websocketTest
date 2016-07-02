@@ -811,3 +811,25 @@ I [2016-06-11 19:37:52.177] [[32mConnectionManager[0m] Connection closed: #<Co
 
 I [2016-06-11 19:39:18.966] [[32mConnectionManager[0m] Connection closed: #<Connection::7e4321c298005fe1f603>
 
+I [2016-06-22 16:37:44.670] [[32mConnectionManager[0m] Connection opened: #<Connection::f0625e155c68e3cb4735>
+
+I [2016-06-22 16:38:11.167] [[32mConnectionManager[0m] Connection opened: #<Connection::1e3a465498d7faa59870>
+
+I [2016-06-22 16:38:34.822] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-22 16:38:34.822] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-22 16:38:34.822] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"187"}
+I [2016-06-22 16:38:34.822] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1e3a465498d7faa59870>
+
+I [2016-06-22 16:38:34.825] [[32mDispatcher[0m] Event new_message Finished in 0.002319515 seconds
+
+I [2016-06-22 16:38:44.316] [[32mDispatcher[0m] Started Event: new_message
+I [2016-06-22 16:38:44.316] [[32mDispatcher[0m] [36mName:[0m new_message
+I [2016-06-22 16:38:44.316] [[32mDispatcher[0m] [36mData:[0m {"name"=>"", "body"=>"71"}
+I [2016-06-22 16:38:44.316] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::f0625e155c68e3cb4735>
+
+I [2016-06-22 16:38:44.318] [[32mDispatcher[0m] Event new_message Finished in 0.001540151 seconds
+
+I [2016-06-22 16:41:13.151] [[32mConnectionManager[0m] Connection closed: #<Connection::1e3a465498d7faa59870>
+
+I [2016-06-22 16:41:14.311] [[32mConnectionManager[0m] Connection closed: #<Connection::f0625e155c68e3cb4735>
+
